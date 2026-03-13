@@ -1,4 +1,0 @@
-# file: /Users/arthsousa/Documents/Faculdade/STS/src/frete.py
-# hypothesis_version: 6.151.9
-
-[0.0, 1.5, 10.0, 15.0, 25.0, 200, 'Destino inválido', 'Peso inválido', 'Peso não permitido', 'internacional', 'mesma_regiao', 'outra_regiao']
